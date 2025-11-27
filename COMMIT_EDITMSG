@@ -1,0 +1,9 @@
+Add a ready-up system for multiplayer races
+
+Introduces a "Ready" system to the multiplayer race mode in MultiplayerRace.tsx and server-side logic in routes.ts, allowing players to indicate readiness before a race starts.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 0e2f50a4-ed87-447f-9502-bc673513283c
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: c16c6721-485e-4680-9679-3142a623b17d
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/409c6891-c538-4405-9dba-43760695cba6/0e2f50a4-ed87-447f-9502-bc673513283c/xgUYUP5
